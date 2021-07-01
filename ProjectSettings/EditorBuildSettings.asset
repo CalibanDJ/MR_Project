@@ -8,7 +8,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GetNativeTexture.unity
     guid: 5ee2eb12bb1a749919b265df40830ff6
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2504676f7735b7244864d7abb698b61c,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 08ad863c0b33867499ff60c11966e16d,
+      type: 2}
